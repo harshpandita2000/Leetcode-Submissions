@@ -1,12 +1,15 @@
- <h1>Leetcode Submissions</h1>
+ <h1>My Leetcode Submissions</h1>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJ0czgydHAwamtzbWRrcGE1dWNmZjd0ZnRhdGE0amI0d3U3MGJjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Leetcode Giphy Image" style="max-width: 100%;">
 
-  <p>This repository contains my solutions to various Leetcode problems in Python.</p>
+
+  <p>This repository contains my solutions to various Leetcode problems in Python. You can read the question directly by clicking on the problem name or by reading the README link below each question.</p>
+  <p><em> ⚠️ Remember to challenge yourself by attempting to solve the problems on your own before exploring the provided solutions.</em></p>
+
 
   <h2>Problems</h2>
 
-  <!-- Add problem sections as needed -->
 
-  <h3 id="problem-1">Problem 1: <strong>MEDIUM:: Divide Array Into Arrays With Max Difference. </strong></h3>
+  <h3 id="problem-1">Problem 1: <a href="https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/" target="_blank"><strong>Medium: Divide Array Into Arrays With Max Difference. </strong></h3>
    <p><a href="3241-divide-array-into-arrays-with-max-difference/README.md">Readme</a> | <a href="3241-divide-array-into-arrays-with-max-difference/divide-array-into-arrays-with-max-difference.py">Link to Solution</a></p>
 
 
