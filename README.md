@@ -20,3 +20,10 @@
 
   <p>If you find this repository useful, feel free to share it with others. Contributions are also welcome!</p>
   <p>Fork the repository, add your solutions, and submit a pull request.</p>
+   <hr>
+  <h2>If you like it, please give it a star ⭐!</h2>
+    <p>By giving this repository a star ⭐, you show your support and encourage more contributions. Thank you!</p>
+
+  <hr>
+
+  <p align="center">Happy Coding! 💻</p>
