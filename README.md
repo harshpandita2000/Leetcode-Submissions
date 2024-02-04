@@ -12,6 +12,9 @@
   <h3 id="problem-1">Problem 1: <a href="https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/" target="_blank"><strong>Medium: Divide Array Into Arrays With Max Difference. </strong></h3>
    <p><a href="3241-divide-array-into-arrays-with-max-difference/README.md">Readme</a> | <a href="3241-divide-array-into-arrays-with-max-difference/divide-array-into-arrays-with-max-difference.py">Link to Solution</a></p>
 
+   <h3 id="problem-2">Problem 2: <a href="https://leetcode.com/problems/number-of-changing-keys/" target="_blank"><strong>Easy: Number of Changing Keys. </strong></h3>
+   <p><a href="3312-number-of-changing-keys/README.md">Readme</a> | <a href="3312-number-of-changing-keys/number-of-changing-keys.py">Link to Solution</a></p>
+
 
   <h2>How to Use</h2>
 
