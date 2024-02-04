@@ -2,7 +2,7 @@
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJ0czgydHAwamtzbWRrcGE1dWNmZjd0ZnRhdGE0amI0d3U3MGJjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Leetcode Giphy Image" style="max-width: 100%;">
 
 
-  <p>This repository contains my solutions to various Leetcode problems in Python. You can read the question directly by clicking on the problem name or by reading the README link below each question.</p>
+  <p>This repository contains my solutions to various Leetcode problems in <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python Icon" height="20" width="20"> Python. You can read the question directly by clicking on the problem name or by reading the README link below each question.</p>
   <p><em> ⚠️ Remember to challenge yourself by attempting to solve the problems on your own before exploring the provided solutions.</em></p>
 
 
