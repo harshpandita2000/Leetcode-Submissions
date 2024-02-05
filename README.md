@@ -15,6 +15,9 @@
    <h3 id="problem-2">Problem 2: <a href="https://leetcode.com/problems/number-of-changing-keys/" target="_blank"><strong>Easy: Number of Changing Keys. </strong></h3>
    <p><a href="3312-number-of-changing-keys/README.md">Readme</a> | <a href="3312-number-of-changing-keys/number-of-changing-keys.py">Link to Solution</a></p>
 
+   <h3 id="problem-3">Problem 3: <a href="https://leetcode.com/problems/first-unique-character-in-a-string/" target="_blank"><strong>Easy: First Unique Character in a String. </strong></h3>
+   <p><a href="387-first-unique-character-in-a-string">Readme</a> | <a href="387-first-unique-character-in-a-string/first-unique-character-in-a-string.py">Link to Solution</a></p>
+
 
   <h2>How to Use</h2>
 
