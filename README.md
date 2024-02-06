@@ -15,10 +15,13 @@
    <p><a href="3312-number-of-changing-keys/README.md">Readme</a> | <a href="3312-number-of-changing-keys/number-of-changing-keys.py">Link to Solution</a></p>
 
    <h3 id="problem-3">Problem 3: <a href="https://leetcode.com/problems/first-unique-character-in-a-string/" target="_blank"><strong>Easy: First Unique Character in a String. </strong></h3>
-   <p><a href="387-first-unique-character-in-a-string">Readme</a> | <a href="387-first-unique-character-in-a-string/first-unique-character-in-a-string.py">Link to Solution</a></p>
+   <p><a href="387-first-unique-character-in-a-string/README.md">Readme</a> | <a href="387-first-unique-character-in-a-string/first-unique-character-in-a-string.py">Link to Solution</a></p>
 
    <h3 id="problem-3">Problem 4: <a href="https://leetcode.com/problems/group-anagrams/" target="_blank"><strong>Medium: Group Anagrams. </strong></h3>
-   <p><a href="49-group-anagrams/README.md">Readme</a> | <a href="49-group-anagrams/group-anagrams.py">Link to Solution</a></p>
+   <p><a href="14-longest-common-prefix/README.md">Readme</a> | <a href="14-longest-common-prefix/longest-common-prefix.py">Link to Solution</a></p>
+
+    <h3 id="problem-3">Problem 4: <a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank"><strong>Easy: Longest Common Prefix. </strong></h3>
+   <p><a href="/README.md">Readme</a> | <a href="49-group-anagrams/group-anagrams.py">Link to Solution</a></p>
 
 
   <h2>How to Use</h2>
