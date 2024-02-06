@@ -1,3 +1,4 @@
+<img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
  <h1>My Leetcode Submissions</h1>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJ0czgydHAwamtzbWRrcGE1dWNmZjd0ZnRhdGE0amI0d3U3MGJjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Leetcode Giphy Image" style="max-width: 100%;">
 
@@ -6,6 +7,7 @@
   <p><em> ⚠️ Remember to challenge yourself by attempting to solve the problems on your own before exploring the provided solutions.</em></p>
 
   <h2>Problems</h2>
+  <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
 
 
   <h3 id="problem-1">Problem 1: <a href="https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/" target="_blank"><strong>Medium: Divide Array Into Arrays With Max Difference.</strong></h3>
@@ -17,27 +19,25 @@
    <h3 id="problem-3">Problem 3: <a href="https://leetcode.com/problems/first-unique-character-in-a-string/" target="_blank"><strong>Easy: First Unique Character in a String. </strong></h3>
    <p><a href="387-first-unique-character-in-a-string/README.md">Readme</a> | <a href="387-first-unique-character-in-a-string/first-unique-character-in-a-string.py">Link to Solution</a></p>
 
-   <h3 id="problem-3">Problem 4: <a href="https://leetcode.com/problems/group-anagrams/" target="_blank"><strong>Medium: Group Anagrams. </strong></h3>
+   <h3 id="problem-4">Problem 4: <a href="https://leetcode.com/problems/group-anagrams/" target="_blank"><strong>Medium: Group Anagrams. </strong></h3>
    <p><a href="14-longest-common-prefix/README.md">Readme</a> | <a href="14-longest-common-prefix/longest-common-prefix.py">Link to Solution</a></p>
 
-    <h3 id="problem-3">Problem 4: <a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank"><strong>Easy: Longest Common Prefix. </strong></h3>
-   <p><a href="/README.md">Readme</a> | <a href="49-group-anagrams/group-anagrams.py">Link to Solution</a></p>
-
-
+<img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
   <h2>How to Use</h2>
 
   <p>Clone the repository and navigate to the specific problem directory to find the Python solutions.</p>
 
   <pre><code>git clone https://github.com/harshpandita2000/Leetcode-Submissions.git</code></pre>
-
+<img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
    <h2>Sharing and Contributions</h2>
 
   <p>If you find this repository useful, feel free to share it with others. Contributions are also welcome!</p>
   <p>Fork the repository, add your solutions, and submit a pull request.</p>
    <hr>
+   <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
   <h2>If you like it, please give it a star ⭐!</h2>
     <p>By giving this repository a star ⭐, you show your support and encourage more contributions. Thank you!</p>
 
-  <hr>
-
+<img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
   <p align="center">Happy Coding! 💻</p>
+<img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
