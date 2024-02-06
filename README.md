@@ -22,6 +22,9 @@
    <h3 id="problem-4">Problem 4: <a href="https://leetcode.com/problems/group-anagrams/" target="_blank"><strong>Medium: Group Anagrams. </strong></h3>
    <p><a href="14-longest-common-prefix/README.md">Readme</a> | <a href="14-longest-common-prefix/longest-common-prefix.py">Link to Solution</a></p>
 
+   <h3 id="problem-5">Problem 5: <a href="https://leetcode.com/problems/length-of-last-word/submissions/" target="_blank"><strong>Easy: Length of Last Word.</strong></h3>
+   <p><a href="58-length-of-last-word">Readme</a> | <a href="58-length-of-last-word/length-of-last-word.py">Link to Solution</a></p>
+
 <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
   <h2>How to Use</h2>
 
