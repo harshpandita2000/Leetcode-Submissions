@@ -3,7 +3,7 @@
  <div align="center">
  <img src="https://i.imgur.com/IsS5xkZ.png" width="180" title="LeetCode" alt="LeetCode"></a>
   <br>
-  <img src="https://img.shields.io/badge/Solved-43/3032-blue.svg?style=flat-square" />
+<img src="https://img.shields.io/badge/Solved-43%2F3032%20=1.42%25-blue.svg?style=flat-square" />
 <br/>
 <img src="https://img.shields.io/badge/Easy-18/767-5CB85D.svg?style=flat-square" />
 <img src="https://img.shields.io/badge/Medium-21/1594-F0AE4E.svg?style=flat-square" />
