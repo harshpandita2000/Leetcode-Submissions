@@ -1,8 +1,14 @@
 <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
  <h1>My Leetcode Submissions</h1>
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJ0czgydHAwamtzbWRrcGE1dWNmZjd0ZnRhdGE0amI0d3U3MGJjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Leetcode Giphy Image" style="max-width: 100%;">
-
-
+ <div align="center">
+ <img src="https://i.imgur.com/IsS5xkZ.png" width="180" title="LeetCode" alt="LeetCode"></a>
+  <br>
+  <img src="https://img.shields.io/badge/Solved-43/3032-blue.svg?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/Easy-18/767-5CB85D.svg?style=flat-square" />
+<img src="https://img.shields.io/badge/Medium-21/1594-F0AE4E.svg?style=flat-square" />
+<img src="https://img.shields.io/badge/Hard-4/671-D95450.svg?style=flat-square" />
+ </div>
   <p>This repository contains my solutions to various Leetcode problems in <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python Icon" height="20" width="20"> Python. You can read the question directly by clicking on the problem name or by reading the README link below each question.</p>
   <p><em> ⚠️ Remember to challenge yourself by attempting to solve the problems on your own before exploring the provided solutions.</em></p>
 
