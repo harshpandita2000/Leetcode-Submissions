@@ -3,7 +3,7 @@ name: Update LeetCode Badges
 on:
   push:
     branches:
-      - main  # Change this if your default branch is different
+      - main
 
 jobs:
   update-badges:
@@ -11,10 +11,10 @@ jobs:
     
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Update to use latest version (v3)
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v2  # Update to use latest version (v3)
         with:
           python-version: '3.x'
 
@@ -22,4 +22,4 @@ jobs:
         run: pip install pyyaml
 
       - name: Run Python Script to Update Badges
-        run: python update_badges.py  # Make sure this is the correct path to your Python script
+        run: python update_badges.py
