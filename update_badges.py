@@ -1,7 +1,8 @@
+
 import yaml
 
 # Read LeetCode submissions data from a YAML file
-with open('leetcode_submissions.yml', 'r') as file:
+with open('leetcode_submissions.yml', 'r', encoding='utf-8') as file:
     submissions_data = yaml.safe_load(file)
 
 # Extract relevant data for updating badges
@@ -12,7 +13,7 @@ medium_count = submissions_data['medium_count']
 hard_count = submissions_data['hard_count']
 
 # Update badge URLs in README file
-with open('README.md', 'r') as file:
+with open('README.md', 'r', encoding='utf-8') as file:
     readme_content = file.read()
 
 readme_content = readme_content.replace(
@@ -36,5 +37,5 @@ readme_content = readme_content.replace(
 )
 
 # Write the updated content back to the README file
-with open('README.md', 'w') as file:
+with open('README.md', 'w', encoding='utf-8') as file:
     file.write(readme_content)
