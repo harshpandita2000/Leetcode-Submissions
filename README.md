@@ -3,11 +3,12 @@
  <div align="center">
  <img src="https://i.imgur.com/IsS5xkZ.png" width="180" title="LeetCode" alt="LeetCode"></a>
   <br>
-<img src="https://img.shields.io/badge/Solved-43%2F3032%20=1.42%25-blue.svg?style=flat-square" />
+<img src="badge_url_here" />  <!-- Placeholder for overall solved count -->
 <br/>
-<img src="https://img.shields.io/badge/Easy-18/767-5CB85D.svg?style=flat-square" />
-<img src="https://img.shields.io/badge/Medium-21/1594-F0AE4E.svg?style=flat-square" />
-<img src="https://img.shields.io/badge/Hard-4/671-D95450.svg?style=flat-square" />
+<img src="badge_url_here" />  <!-- Placeholder for easy problems -->
+<img src="badge_url_here" />  <!-- Placeholder for medium problems -->
+<img src="badge_url_here" />  <!-- Placeholder for hard problems -->
+
  </div>
   <p>This repository contains my solutions to various Leetcode problems in <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python Icon" height="20" width="20"> Python. You can read the question directly by clicking on the problem name or by reading the README link below each question.</p>
   <p><em> ⚠️ Remember to challenge yourself by attempting to solve the problems on your own before exploring the provided solutions.</em></p>
