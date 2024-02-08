@@ -10,27 +10,31 @@
     <img src="https://img.shields.io/badge/Hard-4/671-D95450.svg?style=flat-square" /> <!-- Hard problems -->
 
  </div>
-  <p>This repository contains my solutions to various Leetcode problems in <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python Icon" height="20" width="20"> Python. You can read the question directly by clicking on the problem name or by reading the README link below each question.</p>
+  <p>This repository contains my solutions to various Leetcode problems in <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python Icon" height="20" width="20"> Python. You can read the question directly by clicking on the problem name.Once you reach the directory, click on the problem name to redirect to its LeetCode page</p>
   <p><em> ⚠️ Remember to challenge yourself by attempting to solve the problems on your own before exploring the provided solutions.</em></p>
 
   <h2>Problems</h2>
   <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
 
 
-  <h3 id="problem-1">Problem 1: <a href="https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/" target="_blank"><strong>Medium: Divide Array Into Arrays With Max Difference.</strong></h3>
-   <p><a href="3241-divide-array-into-arrays-with-max-difference/README.md">Readme</a> | <a href="3241-divide-array-into-arrays-with-max-difference/divide-array-into-arrays-with-max-difference.py">Link to Solution</a></p>
+   <h3 id="problem-3241">Problem 3241: <a href="3241-divide-array-into-arrays-with-max-difference" target="_blank"><strong>Divide Array Into Arrays With Max Difference.</strong></h3>
+ 
+   <h3 id="problem-3312">Problem 3312: <a href="3312-number-of-changing-keys" target="_blank"><strong>Number of Changing Keys.</strong></h3>
 
-   <h3 id="problem-2">Problem 2: <a href="https://leetcode.com/problems/number-of-changing-keys/" target="_blank"><strong>Easy: Number of Changing Keys.</strong></h3>
-   <p><a href="3312-number-of-changing-keys/README.md">Readme</a> | <a href="3312-number-of-changing-keys/number-of-changing-keys.py">Link to Solution</a></p>
+   <h3 id="problem-387">Problem 387: <a href="387-first-unique-character-in-a-string" target="_blank"><strong>First Unique Character in a String. </strong></h3>
+ 
+   <h3 id="problem-49">Problem 49: <a href="49-group-anagrams" target="_blank"><strong>Group Anagrams. </strong></h3>
+   
+   <h3 id="problem-58">Problem 58: <a href="58-length-of-last-word" target="_blank"><strong>Length of Last Word.</strong></h3>
+   
+   <h3 id="problem-451">Problem 451: <a href="451-sort-characters-by-frequency" target="_blank"><strong>Sort Characters By Frequency.</strong></h3>
+  
+   <h3 id="problem-26">Problem 26: <a href="26-remove-duplicates-from-sorted-array" target="_blank"><strong>Remove Duplicates from Sorted Array.</strong></h3>
 
-   <h3 id="problem-3">Problem 3: <a href="https://leetcode.com/problems/first-unique-character-in-a-string/" target="_blank"><strong>Easy: First Unique Character in a String. </strong></h3>
-   <p><a href="387-first-unique-character-in-a-string/README.md">Readme</a> | <a href="387-first-unique-character-in-a-string/first-unique-character-in-a-string.py">Link to Solution</a></p>
+   <h3 id="problem-204">Problem 8: <a href="204-count-primes" target="_blank"><strong>Count Primes.</strong></h3>
 
-   <h3 id="problem-4">Problem 4: <a href="https://leetcode.com/problems/group-anagrams/" target="_blank"><strong>Medium: Group Anagrams. </strong></h3>
-   <p><a href="14-longest-common-prefix/README.md">Readme</a> | <a href="14-longest-common-prefix/longest-common-prefix.py">Link to Solution</a></p>
-
-   <h3 id="problem-5">Problem 5: <a href="https://leetcode.com/problems/length-of-last-word/submissions/" target="_blank"><strong>Easy: Length of Last Word.</strong></h3>
-   <p><a href="58-length-of-last-word">Readme</a> | <a href="58-length-of-last-word/length-of-last-word.py">Link to Solution</a></p>
+   <h3 id="problem-14">Problem 9: <a href="14-longest-common-prefix" target="_blank"><strong>Longest Common Prefix.</strong></h3>
+   
 
 <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
   <h2>How to Use</h2>
