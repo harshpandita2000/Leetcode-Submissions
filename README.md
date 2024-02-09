@@ -31,10 +31,11 @@
   
    <h3 id="problem-26">Problem 26: <a href="26-remove-duplicates-from-sorted-array" target="_blank"><strong>Remove Duplicates from Sorted Array.</strong></h3>
 
-   <h3 id="problem-204">Problem 8: <a href="204-count-primes" target="_blank"><strong>Count Primes.</strong></h3>
+   <h3 id="problem-204">Problem 204: <a href="204-count-primes" target="_blank"><strong>Count Primes.</strong></h3>
 
-   <h3 id="problem-14">Problem 9: <a href="14-longest-common-prefix" target="_blank"><strong>Longest Common Prefix.</strong></h3>
-   
+   <h3 id="problem-14">Problem 14: <a href="14-longest-common-prefix" target="_blank"><strong>Longest Common Prefix.</strong></h3>
+
+   <h3 id="problem-27">Problem 27: <a href="27-remove-element" target="_blank"><strong>Remove Element.</strong></h3>
 
 <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
   <h2>How to Use</h2>
