@@ -3,11 +3,11 @@
  <div align="center">
  <img src="https://i.imgur.com/IsS5xkZ.png" width="180" title="LeetCode" alt="LeetCode"></a>
   <br>
-<img src="https://img.shields.io/badge/Solved-45%2F3032%20=1.48%25-blue.svg?style=flat-square" alt="Solved">  <!-- Overall solved count -->
+<img src="https://img.shields.io/badge/Solved-48%2F3036%20=1.58%25-blue.svg?style=flat-square" alt="Solved">  <!-- Overall solved count -->
     <br/>
-    <img src="https://img.shields.io/badge/Easy-19/767-5CB85D.svg?style=flat-square" /> <!-- Easy problems -->
-    <img src="https://img.shields.io/badge/Medium-22/1594-F0AE4E.svg?style=flat-square" /> <!-- Medium problems -->
-    <img src="https://img.shields.io/badge/Hard-4/671-D95450.svg?style=flat-square" /> <!-- Hard problems -->
+    <img src="https://img.shields.io/badge/Easy-22/768-5CB85D.svg?style=flat-square" /> <!-- Easy problems -->
+    <img src="https://img.shields.io/badge/Medium-22/1596-F0AE4E.svg?style=flat-square" /> <!-- Medium problems -->
+    <img src="https://img.shields.io/badge/Hard-4/672-D95450.svg?style=flat-square" /> <!-- Hard problems -->
 
  </div>
   <p>This repository contains my solutions to various Leetcode problems in <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python Icon" height="20" width="20"> Python. You can read the question directly by clicking on the problem name.Once you reach the directory, click on the problem name to redirect to its LeetCode page</p>
