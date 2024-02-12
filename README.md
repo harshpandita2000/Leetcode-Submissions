@@ -37,6 +37,13 @@
 
    <h3 id="problem-27">Problem 27: <a href="27-remove-element" target="_blank"><strong>Remove Element.</strong></h3>
 
+   <h3 id="problem-35">Problem 35: <a href="35-search-insert-position"  target="_blank"><strong>Search Insert Position.</strong></h3>
+
+   <h3 id="problem-28">Problem 28: <a href="28-find-the-index-of-the-first-occurrence-in-a-string"  target="_blank"><strong>Find the Index of the First Occurrence in a String.</strong></h3>
+
+   <h3 id="problem-169">Problem 169: <a href="169-majority-element"  target="_blank"><strong>Majority Element.</strong></h3>
+
+
 <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
   <h2>How to Use</h2>
 
