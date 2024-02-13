@@ -45,6 +45,7 @@
 
   <h3 id="problem-12">Problem 12: <a href="12-integer-to-roman"  target="_blank"><strong>Integer to Roman.</strong></h3>
 
+<h3 id="problem-2231">Problem 2231: <a href="2231-find-first-palindromic-string-in-the-array"  target="_blank"><strong>Find First Palindromic String in the Array.</strong></h3>
 
 
 <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
