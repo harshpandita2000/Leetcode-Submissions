@@ -47,6 +47,7 @@
 
 <h3 id="problem-2231">Problem 2231: <a href="2231-find-first-palindromic-string-in-the-array"  target="_blank"><strong>Find First Palindromic String in the Array.</strong></h3>
 
+<h3 >Problem 2271: <a href="2271-rearrange-array-elements-by-sign"  target="_blank"><strong>Rearrange Array Elements by Sign.</strong></h3>
 
 <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
   <h2>How to Use</h2>
