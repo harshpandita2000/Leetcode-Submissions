@@ -3,10 +3,10 @@
  <div align="center">
  <img src="https://i.imgur.com/IsS5xkZ.png" width="180" title="LeetCode" alt="LeetCode"></a>
   <br>
-<img src="https://img.shields.io/badge/Solved-48%2F3036%20=1.58%25-blue.svg?style=flat-square" alt="Solved">  <!-- Overall solved count -->
+<img src="https://img.shields.io/badge/Solved-51%2F3036%20=1.68%25-blue.svg?style=flat-square" alt="Solved"><!-- Overall solved count -->
     <br/>
-    <img src="https://img.shields.io/badge/Easy-22/768-5CB85D.svg?style=flat-square" /> <!-- Easy problems -->
-    <img src="https://img.shields.io/badge/Medium-22/1596-F0AE4E.svg?style=flat-square" /> <!-- Medium problems -->
+    <img src="https://img.shields.io/badge/Easy-23/768-5CB85D.svg?style=flat-square" /> <!-- Easy problems -->
+    <img src="https://img.shields.io/badge/Medium-24/1596-F0AE4E.svg?style=flat-square" /> <!-- Medium problems -->
     <img src="https://img.shields.io/badge/Hard-4/672-D95450.svg?style=flat-square" /> <!-- Hard problems -->
 
  </div>
