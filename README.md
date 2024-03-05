@@ -1,7 +1,7 @@
 <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
  <h1>My Leetcode Submissions</h1>
  <div align="center">
- <img src="https://i.imgur.com/IsS5xkZ.png" width="180" title="LeetCode" alt="LeetCode"></a>
+<a href="https://leetcode.com/harshpandita/"> <img src="https://i.imgur.com/IsS5xkZ.png" width="180" title="LeetCode" alt="LeetCode"></a>
   <br>
 
 <img src="https://img.shields.io/badge/Solved-51%2F3036%20=1.68%25-blue.svg?style=flat-square" alt="Solved"><!-- Overall solved count -->
