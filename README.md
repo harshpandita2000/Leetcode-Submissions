@@ -20,12 +20,12 @@
 If found helpful please press a ⭐.
 <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
  
-  ## Other Similar Repositories
+  ## ⭐Other Similar Repositories
 
 <table>
   <tr align="center">
     <td>
-      <a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLeDoMeNR95b4yWe5-iDhny0p-FVJRhU10vA&usqp=CAU" height="100"></a>
+      <a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLeDoMeNR95b4yWe5-iDhny0p-FVJRhU10vA&usqp=CAU" width="180" ></a>
       <br>
       Repo : 
       <a href="https://github.com/harshpandita2000/Striver_DSA"> Striver A2Z DSA Sheet</a>
@@ -37,7 +37,7 @@ If found helpful please press a ⭐.
     </td>
     <td>
       <br>
-      <a href="https://auth.geeksforgeeks.org/user/harshpandita/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" height="50px"></a>
+      <a href="https://auth.geeksforgeeks.org/user/harshpandita/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" width="180" ></a>
       <br>
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
