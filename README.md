@@ -12,9 +12,44 @@
  </div>
   <p>This repository contains my solutions to various Leetcode problems in <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python Icon" height="20" width="20"> Python. You can read the question directly by clicking on the problem name.Once you reach the directory, click on the problem name to redirect to its LeetCode page</p>
   <p><em> ⚠️ Remember to challenge yourself by attempting to solve the problems on your own before exploring the provided solutions.</em></p>
+    <p><em> ⚠️ Sometimes not updated in readme. Use Ctrl+F in the repository to find the question</em></p>
+  
+If found helpful please press a ⭐.
+<img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
+ 
+  ## Other Similar Repositories
 
+<table>
+  <tr align="center">
+    <td>
+      <a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLeDoMeNR95b4yWe5-iDhny0p-FVJRhU10vA&usqp=CAU" height="100"></a>
+      <br>
+      Repo : 
+      <a href="https://github.com/harshpandita2000/Striver_DSA"> Striver A2Z DSA Sheet</a>
+      <br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>
+    </td>
+    <td>
+      <br>
+      <a href="https://auth.geeksforgeeks.org/user/harshpandita/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" height="50px"></a>
+      <br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>
+      Repo : 
+      <a href="https://github.com/harshpandita2000/GFG-PRACTICE">GFG Problems</a>
+      <br>
+      <br>
+    </td>
+  </tr>
+</table>
+<img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
   <h2>Problems</h2>
-  <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
+  
 
 
    <h3 id="problem-3241">Problem 3241: <a href="3241-divide-array-into-arrays-with-max-difference" target="_blank"><strong>Divide Array Into Arrays With Max Difference.</strong></h3>
@@ -69,4 +104,6 @@
 
 <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
   <p align="center">Happy Coding! 💻</p>
+  **"Any suggestions would be appreciated"**
+
 <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
