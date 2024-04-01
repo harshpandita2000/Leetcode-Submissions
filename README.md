@@ -13,9 +13,18 @@
 
 
  </div>
-  <p>This repository contains my solutions to various Leetcode problems in <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python Icon" height="20" width="20"> Python. You can read the question directly by clicking on the problem name.Once you reach the directory, click on the problem name to redirect to its LeetCode page</p>
-  <p><em> ⚠️ Remember to challenge yourself by attempting to solve the problems on your own before exploring the provided solutions.</em></p>
-    <p><em> ⚠️ Sometimes not updated in readme. Use Ctrl+F in the repository to find the question</em></p>
+  <p>This repository contains my solutions to various Leetcode problems in 
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python Icon" height="20" width="20"> Python 
+  and <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-1024.png" alt="SQL Icon" height="30" width="30"> MySQL. 
+  You can read the question directly by clicking on the problem name. Once you reach the directory, click on the problem name to redirect to its LeetCode page.
+</p>
+<p>
+  <em>⚠️ Remember to challenge yourself by attempting to solve the problems on your own before exploring the provided solutions.</em>
+</p>
+<p>
+  <em>⚠️ Sometimes not updated in readme. Use Ctrl+F in the repository to find the question</em>
+</p>
+
   
 If found helpful please press a ⭐.
 <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
